@@ -236,4 +236,3 @@ if subcategory == "GL Journal Listing By Department Report":
     for tab in tabs:
         with tab:
             st.info("This section will be developed later.")
-
